@@ -1,6 +1,6 @@
 # Makefile for Atmel AVR microcontrollers
 # Does not generate output for debugging or simulation
-#
+
 # Important settings should be updated for each project.
 # The rest of the makefile can usually be left alone.
 
